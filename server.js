@@ -1,4 +1,4 @@
-// server.js
+// server.js  test simple hello world from openAI server
 const express = require('express');
 const dotenv = require('dotenv');
 const fetch = require('node-fetch');
