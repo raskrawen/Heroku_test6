@@ -1,4 +1,4 @@
-// server.js  test simple hello world from openAI server
+// server.js  test simple hello world from openAI server. virker med nodefetch v2
 const express = require('express');
 const dotenv = require('dotenv');
 const fetch = require('node-fetch');
