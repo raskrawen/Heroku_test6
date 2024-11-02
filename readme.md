@@ -1,0 +1,1 @@
+lav en test: simpel hello world fra openAI i heroku.
